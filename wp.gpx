@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx
+ xmlns="http://www.topografix.com/GPX/1/1"
+ creator="OziExplorer Version 3956f - http://www.oziexplorer.com"
+ version="1.1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+ <time>2016-09-26T08:20:00Z</time>
+ <bounds minlat="50.115833" minlon="37.060380" maxlat="56.373637" maxlon="115.450606"/>
+</metadata>
+<wpt lat="52.8022220" lon="107.9563890">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.266Z</time>
+ <name>-GR</name>
+ <cmt>гремячинск-отметил-по-ошибке</cmt>
+ <desc>гремячинск-отметил-по-ошибке</desc>
+</wpt>
+<wpt lat="55.9291700" lon="115.1948610">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.267Z</time>
+ <name>-IRKD</name>
+ <cmt>иракинда-раньше-была-метеостанция-ручная-точка</cmt>
+ <desc>иракинда-раньше-была-метеостанция-ручная-точка</desc>
+</wpt>
+<wpt lat="52.5008360" lon="108.0373900">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.269Z</time>
+ <name>-KIKA</name>
+ <cmt>ручная точка</cmt>
+ <desc>ручная точка</desc>
+</wpt>
+<wpt lat="55.5230500" lon="114.2931410">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.270Z</time>
+ <name>-V-C</name>
+ <cmt>вековьё-ципа-ручная-точка</cmt>
+ <desc>вековьё-ципа-ручная-точка</desc>
+</wpt>
+<wpt lat="51.7591670" lon="102.2188890">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.272Z</time>
+ <name>-BADAR</name>
+ <cmt>бадары-радиоастрофизическая обсерватория</cmt>
+ <desc>бадары-радиоастрофизическая обсерватория</desc>
+</wpt>
+<wpt lat="51.7698890" lon="102.2347080">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.275Z</time>
+ <name>-BADR</name>
+ <cmt>бадары-радиоастрономическая-обсерватория-РАО</cmt>
+ <desc>бадары-радиоастрономическая-обсерватория-РАО</desc>
+</wpt>
+<wpt lat="50.5864000" lon="107.5974720">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.277Z</time>
+ <name>BCHR</name>
+ <cmt>бичура</cmt>
+ <desc>бичура</desc>
+</wpt>
+<wpt lat="54.4444440" lon="113.5872220">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.279Z</time>
+ <name>BGDR</name>
+ <cmt>багдарин</cmt>
+ <desc>багдарин</desc>
+</wpt>
+<wpt lat="55.2540560" lon="113.1183060">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.280Z</time>
+ <name>BNT</name>
+ <cmt>баунт-ручная-точка</cmt>
+ <desc>баунт-ручная-точка</desc>
+</wpt>
+<wpt lat="53.6172220" lon="109.6347220">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.282Z</time>
+ <name>BR</name>
+ <cmt>баргузин</cmt>
+ <desc>баргузин</desc>
+</wpt>
+<wpt lat="51.7166670" lon="105.8666670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.284Z</time>
+ <name>BSHK</name>
+ <cmt>бабушкин</cmt>
+ <desc>бабушкин</desc>
+</wpt>
+<wpt lat="50.4544440" lon="103.5719440">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.286Z</time>
+ <name>CKR</name>
+ <cmt>цакир</cmt>
+ <desc>цакир</desc>
+</wpt>
+<wpt lat="52.9855560" lon="108.2897220">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.287Z</time>
+ <name>GOR</name>
+ <cmt>горячинск</cmt>
+ <desc>горячинск</desc>
+</wpt>
+<wpt lat="50.1158330" lon="107.4500000">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.288Z</time>
+ <name>HMGD</name>
+ <cmt>хамнигадайская-meteo-gid.ru-проверить-первмайский</cmt>
+ <desc>хамнигадайская-meteo-gid.ru-проверить-первмайский</desc>
+</wpt>
+<wpt lat="52.1666670" lon="109.7666670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.289Z</time>
+ <name>HRNSK</name>
+ <cmt>хоринск</cmt>
+ <desc>хоринск</desc>
+</wpt>
+<wpt lat="51.7472220" lon="107.2791670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.291Z</time>
+ <name>IVGNSK</name>
+ <cmt>иволгинск</cmt>
+ <desc>иволгинск</desc>
+</wpt>
+<wpt lat="52.0413890" lon="106.6530560">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.293Z</time>
+ <name>KBNSK</name>
+ <cmt>кабанск</cmt>
+ <desc>кабанск</desc>
+</wpt>
+<wpt lat="51.8463890" lon="109.9127780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.294Z</time>
+ <name>KNGA</name>
+ <cmt>кижинга</cmt>
+ <desc>кижинга</desc>
+</wpt>
+<wpt lat="54.3166670" lon="110.3166670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.296Z</time>
+ <name>KR</name>
+ <cmt>курумкан</cmt>
+ <desc>курумкан</desc>
+</wpt>
+<wpt lat="51.6783330" lon="102.1361110">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.297Z</time>
+ <name>KRN</name>
+ <cmt>кырен</cmt>
+ <desc>кырен</desc>
+</wpt>
+<wpt lat="51.0472780" lon="107.8236390">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.300Z</time>
+ <name>MHSHB</name>
+ <cmt>мухоршибирь</cmt>
+ <desc>мухоршибирь</desc>
+</wpt>
+<wpt lat="51.6742950" lon="100.9875810">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.308Z</time>
+ <name>MND</name>
+ <cmt>монды-ручная-точка</cmt>
+ <desc>монды-ручная-точка</desc>
+</wpt>
+<wpt lat="50.5341670" lon="104.8277780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.310Z</time>
+ <name>N-TOR</name>
+ <cmt>нижний торей</cmt>
+ <desc>нижний торей</desc>
+</wpt>
+<wpt lat="55.7858330" lon="109.5722220">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.312Z</time>
+ <name>NGRSK</name>
+ <cmt>нижнеангарск</cmt>
+ <desc>нижнеангарск</desc>
+</wpt>
+<wpt lat="52.0497220" lon="108.5158330">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.313Z</time>
+ <name>NKRB</name>
+ <cmt>новая-курба-meteo-gid.ru</cmt>
+ <desc>новая-курба-meteo-gid.ru</desc>
+</wpt>
+<wpt lat="52.3622960" lon="107.8821290">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.315Z</time>
+ <name>NR</name>
+ <cmt>нестерово-ручная точка</cmt>
+ <desc>нестерово-ручная точка</desc>
+</wpt>
+<wpt lat="56.1405560" lon="111.7438890">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.317Z</time>
+ <name>NUN</name>
+ <cmt>новый уоян</cmt>
+ <desc>новый уоян</desc>
+</wpt>
+<wpt lat="51.0833330" lon="106.6166670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.318Z</time>
+ <name>NVSNG</name>
+ <cmt>новоселенгинск</cmt>
+ <desc>новоселенгинск</desc>
+</wpt>
+<wpt lat="52.5100000" lon="99.8211110">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.320Z</time>
+ <name>OR</name>
+ <cmt>орлик</cmt>
+ <desc>орлик</desc>
+</wpt>
+<wpt lat="50.6080080" lon="105.3218030">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.321Z</time>
+ <name>PTRP</name>
+ <cmt>петропавловка</cmt>
+ <desc>петропавловка</desc>
+</wpt>
+<wpt lat="53.2000000" lon="112.7827780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.323Z</time>
+ <name>RMNK</name>
+ <cmt>романовка-meteo-gid.ru</cmt>
+ <desc>романовка-meteo-gid.ru</desc>
+</wpt>
+<wpt lat="52.5478390" lon="107.1182930">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.325Z</time>
+ <name>SH</name>
+ <cmt>сухая-ручная-точка</cmt>
+ <desc>сухая-ручная-точка</desc>
+</wpt>
+<wpt lat="50.7305560" lon="102.8033330">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.328Z</time>
+ <name>SNG</name>
+ <cmt>санага</cmt>
+ <desc>санага</desc>
+</wpt>
+<wpt lat="55.6333330" lon="109.3166670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.329Z</time>
+ <name>SRBK</name>
+ <cmt>северобайкальск</cmt>
+ <desc>северобайкальск</desc>
+</wpt>
+<wpt lat="52.5166670" lon="111.5333330">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.331Z</time>
+ <name>SSO</name>
+ <cmt>сосново-озёрское</cmt>
+ <desc>сосново-озёрское</desc>
+</wpt>
+<wpt lat="51.4805560" lon="107.3597220">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.333Z</time>
+ <name>TBGT</name>
+ <cmt>тарбагатай</cmt>
+ <desc>тарбагатай</desc>
+</wpt>
+<wpt lat="56.3394440" lon="114.8922220">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.334Z</time>
+ <name>TKSM</name>
+ <cmt>таксимо</cmt>
+ <desc>таксимо</desc>
+</wpt>
+<wpt lat="52.7302780" lon="113.2888890">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.335Z</time>
+ <name>TLMB</name>
+ <cmt>телемба</cmt>
+ <desc>телемба</desc>
+</wpt>
+<wpt lat="51.5586110" lon="105.1302780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.337Z</time>
+ <name>TNH</name>
+ <cmt>танхой</cmt>
+ <desc>танхой</desc>
+</wpt>
+<wpt lat="51.7402780" lon="102.5466670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.338Z</time>
+ <name>TNK</name>
+ <cmt>тунка</cmt>
+ <desc>тунка</desc>
+</wpt>
+<wpt lat="54.6169440" lon="113.1327780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.340Z</time>
+ <name>TR-PR</name>
+ <cmt>троиицкий-прииск-meteogid.ru</cmt>
+ <desc>троиицкий-прииск-meteogid.ru</desc>
+</wpt>
+<wpt lat="55.8533850" lon="115.4506060">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.342Z</time>
+ <name>TSHM-MS</name>
+ <cmt>тилишма-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>тилишма-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="54.8500000" lon="111.1500000">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.344Z</time>
+ <name>TZA</name>
+ <cmt>таза-meteo-gid.ru</cmt>
+ <desc>таза-meteo-gid.ru</desc>
+</wpt>
+<wpt lat="53.9827780" lon="113.2000000">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.345Z</time>
+ <name>U-ANTS</name>
+ <cmt>усть-антосе-meteo-gid.ru</cmt>
+ <desc>усть-антосе-meteo-gid.ru</desc>
+</wpt>
+<wpt lat="53.4105560" lon="109.0227780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.347Z</time>
+ <name>U-BR</name>
+ <cmt>усть-баргузин</cmt>
+ <desc>усть-баргузин</desc>
+</wpt>
+<wpt lat="53.6658330" lon="111.9500000">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.349Z</time>
+ <name>U-DGLD</name>
+ <cmt>усть-джилинда-meteo-gid.ru</cmt>
+ <desc>усть-джилинда-meteo-gid.ru</desc>
+</wpt>
+<wpt lat="53.2158330" lon="111.6827780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.350Z</time>
+ <name>U-ZAZA</name>
+ <cmt>усть-заза-meteo-gid.ru-криво</cmt>
+ <desc>усть-заза-meteo-gid.ru-криво</desc>
+</wpt>
+<wpt lat="55.5838640" lon="114.5058210">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.352Z</time>
+ <name>UYA-MS</name>
+ <cmt>Уя-метеостанция-ручная-точка</cmt>
+ <desc>Уя-метеостанция-ручная-точка</desc>
+</wpt>
+<wpt lat="55.4855560" lon="113.6352780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.353Z</time>
+ <name>UKT</name>
+ <cmt>уакит</cmt>
+ <desc>уакит</desc>
+</wpt>
+<wpt lat="51.8333330" lon="107.6166670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.355Z</time>
+ <name>UU</name>
+ <cmt>улан-удэ</cmt>
+ <desc>улан-удэ</desc>
+</wpt>
+<wpt lat="52.7669440" lon="109.9669440">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.357Z</time>
+ <name>ZMKT</name>
+ <cmt>замогта-meteo-gid.ru</cmt>
+ <desc>замогта-meteo-gid.ru</desc>
+</wpt>
+<wpt lat="51.2833330" lon="106.5166670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.359Z</time>
+ <name>GOZSK</name>
+ <cmt>гусиноозёрск</cmt>
+ <desc>гусиноозёрск</desc>
+</wpt>
+<wpt lat="53.0130500" lon="108.3260000">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.360Z</time>
+ <name>GOR-MS</name>
+ <cmt>горячинск-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>горячинск-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="51.3386040" lon="106.4545640">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.362Z</time>
+ <name>-CAMP</name>
+ <cmt>какой-то-лагерь-ручная-точка</cmt>
+ <desc>какой-то-лагерь-ручная-точка</desc>
+</wpt>
+<wpt lat="55.4859590" lon="113.6282780">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.363Z</time>
+ <name>UKT-MS</name>
+ <cmt>уакит-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>уакит-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="52.7736240" lon="109.9730460">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.366Z</time>
+ <name>ZMKT-MS</name>
+ <cmt>замогта-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>замогта-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="53.1985530" lon="111.7065990">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.367Z</time>
+ <name>U-ZAZA-MS</name>
+ <cmt>усть-заза-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>усть-заза-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="54.8755120" lon="111.1580880">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.369Z</time>
+ <name>TZA-MS</name>
+ <cmt>таза-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>таза-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="53.9690940" lon="113.1900740">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.371Z</time>
+ <name>U-ANTS-MS</name>
+ <cmt>усть-антосе-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>усть-антосе-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="53.2053580" lon="112.7590460">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.372Z</time>
+ <name>RMNK-MS</name>
+ <cmt>романовка-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>романовка-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="55.7558310" lon="37.0603800">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.376Z</time>
+ <name>-0-KM-0-RF</name>
+ <cmt>нулевой-километр-рф</cmt>
+ <desc>нулевой-километр-рф</desc>
+</wpt>
+<wpt lat="51.4166670" lon="106.5416670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.377Z</time>
+ <name>-OZ-SHCH</name>
+ <cmt>озеро-щючье</cmt>
+ <desc>озеро-щючье</desc>
+</wpt>
+<wpt lat="52.0957710" lon="107.2361550">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.379Z</time>
+ <name>-LGR-DRGB</name>
+ <cmt>лагерь-дружба</cmt>
+ <desc>лагерь-дружба</desc>
+</wpt>
+<wpt lat="52.6545610" lon="109.5178420">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.380Z</time>
+ <name>64</name>
+</wpt>
+<wpt lat="56.3736370" lon="114.8382530">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.382Z</time>
+ <name>TKSM-MS</name>
+ <cmt>таксимо-метеостанция-ручная-точка-отметка-на-карте</cmt>
+ <desc>таксимо-метеостанция-ручная-точка-отметка-на-карте</desc>
+</wpt>
+<wpt lat="50.3500000" lon="106.4500000">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.384Z</time>
+ <name>50°21?00? с. ш. 106°27?00? в. д.</name>
+</wpt>
+<wpt lat="51.0987610" lon="106.5403160">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.386Z</time>
+ <name>67</name>
+ <cmt>здесь-по-моему-есть-дорога</cmt>
+ <desc>здесь-по-моему-есть-дорога</desc>
+</wpt>
+<wpt lat="51.8000000" lon="107.4333330">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.387Z</time>
+ <name>11</name>
+</wpt>
+<wpt lat="52.0000000" lon="106.8666670">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.388Z</time>
+ <name>SLNGSK</name>
+ <cmt>селенгинск</cmt>
+ <desc>селенгинск</desc>
+</wpt>
+<wpt lat="51.8096450" lon="107.7546620">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.390Z</time>
+ <name>Улан-Удэ ОГМ,</name>
+ <cmt>51.809645,107.7546617 ГЛОНА,, КООРДИНАТА</cmt>
+ <desc>51.809645,107.7546617 ГЛОНА,, КООРДИНАТА</desc>
+</wpt>
+<wpt lat="51.7684773" lon="102.2336197">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.392Z</time>
+ <name>Точка 71</name>
+</wpt>
+<wpt lat="52.7743165" lon="109.9734879">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.394Z</time>
+ <name>Точка 72</name>
+</wpt>
+<wpt lat="55.7482222" lon="108.8056111">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.395Z</time>
+ <name>Даван</name>
+ <cmt>55°44'53.6"N 108°48'20.2"E</cmt>
+ <desc>55°44'53.6"N 108°48'20.2"E</desc>
+</wpt>
+<wpt lat="50.5136110" lon="106.2721560">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.397Z</time>
+ <name>Усть-Кяхта</name>
+</wpt>
+<wpt lat="50.6151740" lon="106.8432458">
+ <ele>0.000000</ele>
+ <time>2016-09-26T08:18:45.398Z</time>
+ <name>река Чикой</name>
+</wpt>
+</gpx>
