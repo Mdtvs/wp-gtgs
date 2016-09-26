@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-09-26T09:07:39Z</time>
+    <time>2016-09-26T09:08:57Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -1756,8 +1756,8 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="51.7684773" lon="102.2336197">
-    <name>Точка 71</name>
+  <wpt lat="51.768475" lon="102.233619444444">
+    <name>Точка 71&#38;</name>
     <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
