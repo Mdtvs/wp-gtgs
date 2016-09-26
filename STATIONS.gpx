@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-09-26T09:01:01Z</time>
+    <time>2016-09-26T09:07:39Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -24,15 +24,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -49,15 +49,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -74,15 +74,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -99,15 +99,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -124,15 +124,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -149,15 +149,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -174,15 +174,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -199,15 +199,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -224,15 +224,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -249,15 +249,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -274,15 +274,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -299,15 +299,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -324,15 +324,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -349,15 +349,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -374,15 +374,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -399,15 +399,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -424,15 +424,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -449,15 +449,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -474,15 +474,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -499,15 +499,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -524,15 +524,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -549,15 +549,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -574,15 +574,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -599,15 +599,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -624,15 +624,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -649,15 +649,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -674,15 +674,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -699,15 +699,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -724,15 +724,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -749,15 +749,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -774,15 +774,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -799,21 +799,21 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="50.730556" lon="102.803333">
-    <name>SNG</name>
+  <wpt lat="50.7305555555556" lon="102.803330555556">
+    <name>SNGa</name>
     <fix>2d</fix>
     <cmt>санагаtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>санага</desc>
@@ -824,15 +824,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -849,15 +849,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -874,15 +874,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -899,15 +899,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -924,15 +924,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -949,15 +949,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -974,15 +974,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -999,15 +999,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1024,15 +1024,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1049,15 +1049,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1074,15 +1074,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1099,15 +1099,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1124,15 +1124,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1149,15 +1149,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1174,15 +1174,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1199,15 +1199,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1224,15 +1224,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1249,15 +1249,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1274,15 +1274,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1299,15 +1299,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1324,15 +1324,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1349,15 +1349,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1374,15 +1374,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1399,15 +1399,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1424,15 +1424,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1449,15 +1449,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1474,15 +1474,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1499,15 +1499,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1524,15 +1524,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1549,15 +1549,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1574,15 +1574,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1597,15 +1597,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1622,15 +1622,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1645,15 +1645,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1670,15 +1670,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1693,15 +1693,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1718,15 +1718,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1743,15 +1743,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1766,15 +1766,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1789,15 +1789,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1814,15 +1814,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1837,15 +1837,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1860,15 +1860,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>New Category</gpxx:Category>
-          <gpxx:Category>wp.gpx</gpxx:Category>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>MS.gpx</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>New Category</wptx1:Category>
-          <wptx1:Category>wp.gpx</wptx1:Category>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>MS.gpx</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
