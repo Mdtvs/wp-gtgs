@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-09-27T02:39:37Z</time>
+    <time>2016-09-27T03:03:48Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -90,6 +90,30 @@
     <name>оз.Байкал-Турка</name>
     <fix>2d</fix>
     <time>2016-09-27T02:29:19Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AAGP</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AAGP</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.5830555555556" lon="105.399722222222">
+    <name>Джида-Петропавловка</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:58:09Z</time>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
@@ -536,14 +560,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
+          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
+          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -716,6 +740,30 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
+  <wpt lat="51.0980555555556" lon="106.666388888889">
+    <name>Новоселенгинск-Селенга</name>
+    <fix>2d</fix>
+    <time>2016-09-27T03:01:32Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
   <wpt lat="52.802222" lon="107.956389">
     <name>-GR</name>
     <fix>2d</fix>
@@ -729,14 +777,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -754,14 +802,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -779,14 +827,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -804,14 +852,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -829,14 +877,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -854,14 +902,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -879,14 +927,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -904,14 +952,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -929,14 +977,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -954,14 +1002,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -979,14 +1027,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1004,14 +1052,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1029,14 +1077,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1054,14 +1102,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1079,14 +1127,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1104,14 +1152,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1129,14 +1177,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1154,14 +1202,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1179,14 +1227,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1204,14 +1252,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1229,14 +1277,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1254,14 +1302,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1279,14 +1327,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1304,14 +1352,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1329,14 +1377,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1354,14 +1402,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1379,14 +1427,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1404,14 +1452,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1429,14 +1477,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1454,14 +1502,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1479,14 +1527,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1504,14 +1552,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1529,14 +1577,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1554,14 +1602,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1579,14 +1627,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1604,14 +1652,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1629,14 +1677,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1654,14 +1702,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1679,14 +1727,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1704,14 +1752,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1729,14 +1777,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1754,14 +1802,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1779,14 +1827,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1804,14 +1852,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1829,14 +1877,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1854,14 +1902,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1879,14 +1927,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1904,14 +1952,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1929,14 +1977,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1954,14 +2002,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1979,14 +2027,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2004,14 +2052,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2029,14 +2077,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2054,14 +2102,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2079,14 +2127,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2104,14 +2152,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2127,14 +2175,14 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>STATIONS</gpxx:Category>
-          <gpxx:Category>MS.gpx</gpxx:Category>
+          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>STATIONS</wptx1:Category>
-          <wptx1:Category>MS.gpx</wptx1:Category>
+          <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
