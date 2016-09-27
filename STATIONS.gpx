@@ -1,17 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-09-27T00:28:10Z</time>
+    <time>2016-09-27T02:39:37Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
-    <name>-IRKD</name>
-    <desc>иракинда-раньше-была-метеостанция-ручная-точка&#60;br&#62;cmt: иракинда-раньше-была-метеостанция-ручная-точка&#60;br&#62;time: 2016-09-26T08:18:45Z&#60;br&#62;ele: 0</desc>
+    <name>Окинское-Она</name>
+    <desc>27.09.2016 2:23:52
+52014`1``; 109050`52``
+</desc>
     <author>
       <name>ron</name>
     </author>
     <bounds maxlat="50.115833" maxlon="115.450606" minlat="56.373637" minlon="37.06038"/>
   </metadata>
+  <wpt lat="52.2336111111111" lon="109.847777777778">
+    <name>Окинское-Она</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:23:52Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AAGP</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AAGP</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.1225" lon="109.701666666667">
+    <name>Кудун-Хоринск</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:25:31Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AAGP</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AAGP</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.3858333333333" lon="106.080555555556">
+    <name>Селенга-Наушки</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:27:52Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AAGP</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AAGP</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.03005" lon="108.407566666667">
+    <name>оз.Байкал-Турка</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:29:19Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AAGP</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AAGP</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
   <wpt lat="55.92917" lon="115.194861">
     <name>-IRKD</name>
     <fix>2d</fix>
@@ -430,6 +528,174 @@
   <wpt lat="50.615174" lon="106.8432458">
     <name>река Чикой</name>
     <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8265277777778" lon="107.631025">
+    <name>г.Улан-Удэ-р.Уда</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:06:00Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0612" lon="106.662833333333">
+    <name>Кабанск-Селенга</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:08:43Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.0267833333333" lon="108.410916666667">
+    <name>Первомаевка-Уда</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:10:55Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.6363888888889" lon="106.147222222222">
+    <name>Джида-Джида</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:12:18Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.5330555555556" lon="106.274166666667">
+    <name>Усть-Кяхта-Селенга</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:13:34Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.2702777777778" lon="106.921944444444">
+    <name>Чикой-Чикой</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:21:08Z</time>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>STATIONS</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>STATIONS</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.9216666666667" lon="106.627222222222">
+    <name>Поворот-Чикой</name>
+    <fix>2d</fix>
+    <time>2016-09-27T02:22:44Z</time>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
