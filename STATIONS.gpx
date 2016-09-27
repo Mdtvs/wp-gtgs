@@ -38,8 +38,13 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
+<<<<<<< HEAD
   <wpt lat="52.1225" lon="109.701666666667">
     <name>Кудун-Хоринск</name>
+=======
+  <wpt lat="55.92917" lon="115.194861">
+    <name>-IRKD</name>
+>>>>>>> parent of df791f8... IRKDA
     <fix>2d</fix>
     <time>2016-09-27T02:25:31Z</time>
     <type>user</type>
