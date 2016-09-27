@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-09-27T03:03:48Z</time>
+    <time>2016-09-27T07:55:01Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -38,13 +38,8 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-<<<<<<< HEAD
   <wpt lat="52.1225" lon="109.701666666667">
     <name>Кудун-Хоринск</name>
-=======
-  <wpt lat="55.92917" lon="115.194861">
-    <name>-IRKD</name>
->>>>>>> parent of df791f8... IRKDA
     <fix>2d</fix>
     <time>2016-09-27T02:25:31Z</time>
     <type>user</type>
@@ -91,7 +86,7 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="52.03005" lon="108.407566666667">
+  <wpt lat="53.258479" lon="110.681286">
     <name>оз.Байкал-Турка</name>
     <fix>2d</fix>
     <time>2016-09-27T02:29:19Z</time>
