@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-10-31T09:00:38Z</time>
+    <time>2016-10-31T09:04:53Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -25,14 +25,12 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
           <gpxx:Category>AAGP</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
           <wptx1:Category>AAGP</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -49,14 +47,12 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
           <gpxx:Category>AAGP</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
           <wptx1:Category>AAGP</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -73,14 +69,12 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
           <gpxx:Category>AAGP</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
           <wptx1:Category>AAGP</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -97,14 +91,12 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
           <gpxx:Category>AAGP</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
           <wptx1:Category>AAGP</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -121,14 +113,12 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
           <gpxx:Category>AAGP</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
           <wptx1:Category>AAGP</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -146,14 +136,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -170,14 +158,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -194,14 +180,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -218,14 +202,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -242,14 +224,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -266,14 +246,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -290,14 +268,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -314,14 +290,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>GIDRO</gpxx:Category>
-          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>GIDRO</wptx1:Category>
-          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -339,13 +313,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -364,13 +336,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -389,13 +359,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -414,13 +382,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -439,13 +405,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -464,13 +428,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -489,13 +451,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -514,13 +474,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -539,13 +497,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -564,13 +520,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -589,13 +543,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -614,13 +566,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -639,13 +589,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -664,13 +612,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -689,13 +635,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -714,13 +658,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -739,13 +681,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -764,13 +704,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -789,13 +727,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -814,13 +750,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -839,13 +773,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -864,13 +796,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -889,13 +819,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -914,13 +842,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -939,13 +865,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -964,13 +888,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -989,13 +911,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1014,13 +934,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1039,13 +957,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1064,13 +980,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1089,13 +1003,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1114,13 +1026,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1139,13 +1049,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1164,13 +1072,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1189,13 +1095,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1214,13 +1118,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1239,13 +1141,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1264,13 +1164,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1289,13 +1187,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1314,13 +1210,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1339,13 +1233,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1364,13 +1256,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1389,13 +1279,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1414,13 +1302,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1439,13 +1325,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1464,13 +1348,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1489,13 +1371,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1514,13 +1394,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1539,13 +1417,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1564,13 +1440,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1589,13 +1463,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1612,13 +1484,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>MS</gpxx:Category>
-          <gpxx:Category>MS</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
           <wptx1:Category>MS</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -1637,14 +1507,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1662,14 +1530,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1687,14 +1553,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1712,14 +1576,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1737,14 +1599,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1762,14 +1622,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1787,14 +1645,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1812,14 +1668,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1837,14 +1691,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1862,14 +1714,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1887,14 +1737,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1910,14 +1758,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1933,14 +1779,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1958,14 +1802,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1981,14 +1823,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2004,14 +1844,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2027,14 +1865,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2052,14 +1888,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2075,14 +1909,12 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>other</gpxx:Category>
-          <gpxx:Category>add</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
           <wptx1:Category>other</wptx1:Category>
-          <wptx1:Category>add</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -2098,13 +1930,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2121,13 +1951,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2144,13 +1972,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2167,13 +1993,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2190,13 +2014,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2213,13 +2035,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2236,13 +2056,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2259,13 +2077,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2282,13 +2098,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2305,13 +2119,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2328,13 +2140,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2351,13 +2161,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2374,13 +2182,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2397,13 +2203,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2420,13 +2224,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2443,13 +2245,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2466,13 +2266,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2489,13 +2287,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2512,13 +2308,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2535,13 +2329,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2558,13 +2350,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2581,13 +2371,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2604,13 +2392,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2627,13 +2413,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2650,13 +2434,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2673,13 +2455,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2696,13 +2476,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2719,13 +2497,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2742,13 +2518,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2765,13 +2539,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2788,13 +2560,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2811,13 +2581,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2834,13 +2602,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2857,13 +2623,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2880,13 +2644,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2903,13 +2665,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2926,13 +2686,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2949,13 +2707,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2972,13 +2728,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -2995,13 +2749,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3018,13 +2770,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3041,13 +2791,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3064,13 +2812,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3087,13 +2833,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3110,13 +2854,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3133,13 +2875,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3156,13 +2896,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3179,13 +2917,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3202,13 +2938,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3225,13 +2959,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3248,13 +2980,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3271,13 +3001,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3294,13 +3022,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3317,13 +3043,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3340,13 +3064,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3363,13 +3085,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3386,13 +3106,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3409,13 +3127,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3432,13 +3148,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3455,13 +3169,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3478,13 +3190,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3501,13 +3211,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3524,13 +3232,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3547,13 +3253,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3570,13 +3274,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3593,13 +3295,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3616,13 +3316,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3639,13 +3337,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3662,13 +3358,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3685,13 +3379,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3708,13 +3400,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3731,13 +3421,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3754,13 +3442,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3777,13 +3463,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3800,13 +3484,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3823,13 +3505,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
@@ -3846,13 +3526,11 @@
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
           <gpxx:Category>vadim</gpxx:Category>
-          <gpxx:Category>vadim</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
           <wptx1:Category>vadim</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
