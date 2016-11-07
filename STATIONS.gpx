@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-10-31T09:04:53Z</time>
+    <time>2016-11-07T06:09:09Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -135,13 +135,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -157,13 +157,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -179,13 +179,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -201,13 +201,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -223,13 +223,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -245,13 +245,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -267,13 +267,13 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -289,13 +289,181 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>GIDRO</gpxx:Category>
+          <gpxx:Category>AGK</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>GIDRO</wptx1:Category>
+          <wptx1:Category>AGK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.285823" lon="106.530439">
+    <name>АСК-А</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.844577" lon="107.580124">
+    <name>АСК-А-6(4)</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.814348" lon="107.594271">
+    <name>АСК-А-2</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.838996" lon="107.597501">
+    <name>АСК-А-1</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.003804" lon="106.867214">
+    <name>АСК-А-1 Селенгинск</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="52.022938" lon="106.838136">
+    <name>АСК-А-2 Брянск</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.814382" lon="107.594259">
+    <name>ASK-A-2</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.306149" lon="108.865016">
+    <name>ACK Петровск-Забайкальский</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>ASK</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>ASK</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
     </extensions>
@@ -1919,6 +2087,300 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
+  <wpt lat="51.306578" lon="106.486211">
+    <name>Север 1 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.324706" lon="106.484622">
+    <name>Север 3 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.351586" lon="106.479817">
+    <name>Север 6 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.404828" lon="106.482392">
+    <name>Север 12 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.303988" lon="106.473377">
+    <name>СЗ 1 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.31707" lon="106.452777">
+    <name>СЗ 3 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.333149" lon="106.418531">
+    <name>СЗ 6 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.379473" lon="106.371753">
+    <name>СЗ 12 км</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.306019" lon="108.864106">
+    <name>Метеостанция Петровск-Забайкальский</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>other</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>other</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.833567" lon="107.681369">
+    <name>СМП-398</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>PNZ</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>PNZ</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="50.3613444444444" lon="106.449336111111">
+    <name>ПНЗ-Кяхта</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>PNZ</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>PNZ</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.806319" lon="107.628328">
+    <name>ПНЗ-5</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>PNZ</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>PNZ</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8154027777778" lon="107.594366666667">
+    <name>ПНЗ-2</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>PNZ</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>PNZ</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
+  <wpt lat="51.8390222222222" lon="107.597591666667">
+    <name>ПНЗ-1</name>
+    <fix>2d</fix>
+    <type>user</type>
+    <sym>Flag, Blue</sym>
+    <link href="files\1.png"/>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>PNZ</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>PNZ</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+    </extensions>
+  </wpt>
   <wpt lat="51.843173" lon="107.598349">
     <name>БЦГМС</name>
     <fix>2d</fix>
@@ -1942,27 +2404,6 @@
   </wpt>
   <wpt lat="51.839389" lon="107.598247">
     <name>БЦГМС (Росгидромет)</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.833567" lon="107.681369">
-    <name>СМП-398</name>
     <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
@@ -2026,27 +2467,6 @@
   </wpt>
   <wpt lat="51.297711" lon="106.483653">
     <name>Труба на ГРЭС</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.285823" lon="106.530439">
-    <name>АСК-А</name>
     <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
@@ -2465,174 +2885,6 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="51.306578" lon="106.486211">
-    <name>Север 1 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.324706" lon="106.484622">
-    <name>Север 3 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.351586" lon="106.479817">
-    <name>Север 6 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.404828" lon="106.482392">
-    <name>Север 12 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.303988" lon="106.473377">
-    <name>СЗ 1 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.31707" lon="106.452777">
-    <name>СЗ 3 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.333149" lon="106.418531">
-    <name>СЗ 6 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.379473" lon="106.371753">
-    <name>СЗ 12 км</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="51.297246" lon="106.469257">
     <name>ЮЗ 1 км</name>
     <fix>2d</fix>
@@ -3032,27 +3284,6 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="50.3613444444444" lon="106.449336111111">
-    <name>ПНЗ-Кяхта</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="51.122199" lon="106.281321">
     <name>Водный пост</name>
     <fix>2d</fix>
@@ -3118,90 +3349,6 @@
   </wpt>
   <wpt lat="51.83263033" lon="107.590684">
     <name>центр</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.844577" lon="107.580124">
-    <name>АСК-А-6(4)</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.814348" lon="107.594271">
-    <name>АСК-А-2</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.838996" lon="107.597501">
-    <name>АСК-А-1</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.806319" lon="107.628328">
-    <name>ПНЗ-5</name>
     <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
@@ -3326,92 +3473,8 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="52.003804" lon="106.867214">
-    <name>АСК-А-1 Селенгинск</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="52.022938" lon="106.838136">
-    <name>АСК-А-2 Брянск</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="52.025374" lon="106.863859">
     <name>Лаборатория</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.8154027777778" lon="107.594366666667">
-    <name>ПНЗ-2</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.8390222222222" lon="107.597591666667">
-    <name>ПНЗ-1</name>
     <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
@@ -3454,69 +3517,6 @@
   </wpt>
   <wpt lat="51.8163027777778" lon="107.588108333333">
     <name>ГАРАЖ</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.814382" lon="107.594259">
-    <name>ASK-A-2</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.306019" lon="108.864106">
-    <name>Метеостанция Петровск-Забайкальский</name>
-    <fix>2d</fix>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>vadim</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>vadim</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="51.306149" lon="108.865016">
-    <name>ACK Петровск-Забайкальский</name>
     <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
