@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 16.07.07.9476" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
   <metadata>
-    <time>2016-11-07T06:10:10Z</time>
+    <time>2016-11-10T01:05:20Z</time>
     <link href="http://www.sasgis.org/">
       <text>SAS.Planet</text>
     </link>
@@ -10,7 +10,7 @@
     <author>
       <name>ron</name>
     </author>
-    <bounds maxlat="50.115833" maxlon="115.450606" minlat="56.373637" minlon="99.821111"/>
+    <bounds maxlat="50.454444" maxlon="115.450605555556" minlat="56.373637" minlon="102.136111"/>
   </metadata>
   <wpt lat="52.8022194444444" lon="107.956388888889">
     <name>GR</name>
@@ -81,29 +81,6 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="55.254056" lon="113.118306">
-    <name>BNT</name>
-    <fix>2d</fix>
-    <cmt>баунт-ручная-точкаtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>баунт-ручная-точка</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="53.617222" lon="109.634722">
     <name>BR</name>
     <fix>2d</fix>
@@ -155,52 +132,6 @@
     <fix>2d</fix>
     <cmt>цакирtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>цакир</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="52.985556" lon="108.289722">
-    <name>GOR</name>
-    <fix>2d</fix>
-    <cmt>горячинскtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>горячинск</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="50.115833" lon="107.45">
-    <name>HMGD</name>
-    <fix>2d</fix>
-    <cmt>хамнигадайская-meteo-gid.ru-проверить-первмайскийtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>хамнигадайская-meteo-gid.ru-проверить-первмайский</desc>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
@@ -380,52 +311,6 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="51.674295" lon="100.987581">
-    <name>MND</name>
-    <fix>2d</fix>
-    <cmt>монды-ручная-точкаtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>монды-ручная-точка</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="50.534167" lon="104.827778">
-    <name>N-TOR</name>
-    <fix>2d</fix>
-    <cmt>нижний торейtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>нижний торей</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="55.785833" lon="109.572222">
     <name>NGRSK</name>
     <fix>2d</fix>
@@ -541,29 +426,6 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="52.51" lon="99.821111">
-    <name>OR</name>
-    <fix>2d</fix>
-    <cmt>орликtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>орлик</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
   <wpt lat="50.608008" lon="105.321803">
     <name>PTRP</name>
     <fix>2d</fix>
@@ -615,29 +477,6 @@
     <fix>2d</fix>
     <cmt>сухая-ручная-точкаtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>сухая-ручная-точка</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="50.7305555555556" lon="102.803330555556">
-    <name>SNG</name>
-    <fix>2d</fix>
-    <cmt>санагаtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>санага</desc>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
@@ -794,31 +633,8 @@
       </wptx1:WaypointExtension>
     </extensions>
   </wpt>
-  <wpt lat="54.616944" lon="113.132778">
-    <name>TR-PR</name>
-    <fix>2d</fix>
-    <cmt>троиицкий-прииск-meteogid.rutime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>троиицкий-прииск-meteogid.ru</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="55.853385" lon="115.450606">
-    <name>TSHM-MS</name>
+  <wpt lat="55.8533833333333" lon="115.450605555556">
+    <name>Телешма</name>
     <fix>2d</fix>
     <cmt>тилишма-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>тилишма-метеостанция-ручная-точка-отметка-на-карте</desc>
@@ -845,52 +661,6 @@
     <fix>2d</fix>
     <cmt>усть-баргузинtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>усть-баргузин</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="53.665833" lon="111.95">
-    <name>U-DGLD</name>
-    <fix>2d</fix>
-    <cmt>усть-джилинда-meteo-gid.rutime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>усть-джилинда-meteo-gid.ru</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="55.583864" lon="114.505821">
-    <name>UYA-MS</name>
-    <fix>2d</fix>
-    <cmt>Уя-метеостанция-ручная-точкаtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>Уя-метеостанция-ручная-точка</desc>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
@@ -960,121 +730,6 @@
     <fix>2d</fix>
     <cmt>горячинск-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>горячинск-метеостанция-ручная-точка-отметка-на-карте</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="55.485959" lon="113.628278">
-    <name>UKT-MS</name>
-    <fix>2d</fix>
-    <cmt>уакит-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>уакит-метеостанция-ручная-точка-отметка-на-карте</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="52.773624" lon="109.973046">
-    <name>ZMKT-MS</name>
-    <fix>2d</fix>
-    <cmt>замогта-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>замогта-метеостанция-ручная-точка-отметка-на-карте</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="53.198553" lon="111.706599">
-    <name>U-ZAZA-MS</name>
-    <fix>2d</fix>
-    <cmt>усть-заза-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>усть-заза-метеостанция-ручная-точка-отметка-на-карте</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="54.875512" lon="111.158088">
-    <name>TZA-MS</name>
-    <fix>2d</fix>
-    <cmt>таза-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>таза-метеостанция-ручная-точка-отметка-на-карте</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="53.969094" lon="113.190074">
-    <name>U-ANTS-MS</name>
-    <fix>2d</fix>
-    <cmt>усть-антосе-метеостанция-ручная-точка-отметка-на-картеtime: 2016-09-26T08:18:45Zele: 0</cmt>
-    <desc>усть-антосе-метеостанция-ручная-точка-отметка-на-карте</desc>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
@@ -1167,27 +822,6 @@
     <fix>2d</fix>
     <cmt>51.809645,107.7546617 ГЛОНА,, КООРДИНАТАtime: 2016-09-26T08:18:45Zele: 0</cmt>
     <desc>51.809645,107.7546617 ГЛОНА,, КООРДИНАТА</desc>
-    <type>user</type>
-    <sym>Flag, Blue</sym>
-    <link href="files\1.png"/>
-    <extensions>
-      <gpxx:WaypointExtension>
-        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
-        <gpxx:Categories>
-          <gpxx:Category>MS</gpxx:Category>
-        </gpxx:Categories>
-      </gpxx:WaypointExtension>
-      <wptx1:WaypointExtension>
-        <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
-        <wptx1:Categories>
-          <wptx1:Category>MS</wptx1:Category>
-        </wptx1:Categories>
-      </wptx1:WaypointExtension>
-    </extensions>
-  </wpt>
-  <wpt lat="50.513611" lon="106.272156">
-    <name>Усть-Кяхта</name>
-    <fix>2d</fix>
     <type>user</type>
     <sym>Flag, Blue</sym>
     <link href="files\1.png"/>
